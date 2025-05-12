@@ -1,8 +1,13 @@
-# MNIST-Digit-Classification-A-Beginner-s-Guide
+# MNIST Digit Classification: A Beginner’s Guide
 
 ## Overview
 
 This project demonstrates how to build and train a simple deep learning model to classify handwritten digits from the MNIST dataset using TensorFlow and Keras.
+
+## Kaggle Notebook
+
+You can view and run this project directly on Kaggle:  
+[MNIST Digit Classification: A Beginner’s Guide](https://www.kaggle.com/code/ahmedelsany/mnist-digit-classification-a-beginner-s-guide)
 
 ## Features
 
